@@ -7,5 +7,9 @@
     "members": "VC Channel ID for member count",
     "channelz": "VC Channel ID for channel count",
     "serverID": "server ID for the bot to count on",
-    "botID": "Bot ID"
+    "botID": "Bot ID",
+    "botStatus": "statuses such as dnd, idle, invisible, or online",
+    "game": "set the game status",
+    "prefix": "set the prefix!",
+    "ownerID": "Your ID"
 }
