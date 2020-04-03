@@ -15,6 +15,8 @@ Setup:
 > edit the `joins.js` file ONLY where the name & value fields are! everything such as `config.avURL` or `config.hooks` is handled if you filled out `c.json` right.
       - You can use `member.user` to substitiute for the member. {Example: `"Hello " + member.user + "!"`}
       - Make sure to save everything
+
+
    ![Welcomer Example](https://cdn.discordapp.com/attachments/695102474586947664/695753102036303982/unknown.png)
 
 
