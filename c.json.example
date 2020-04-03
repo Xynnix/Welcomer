@@ -1,5 +1,11 @@
 {
     "token": "Bot Token",
     "hooks": "Discord Welcome Channel Webhook",
-    "avURL": "Image URL for webhook"
+    "avURL": "Image URL for webhook",
+    "banner": "banner URL",
+    "status": "VC Channel ID for on/off status",
+    "members": "VC Channel ID for member count",
+    "channelz": "VC Channel ID for channel count",
+    "serverID": "server ID for the bot to count on",
+    "botID": "Bot ID"
 }
