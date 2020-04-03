@@ -1,0 +1,5 @@
+{
+    "token": "Bot Token",
+    "hooks": "Discord Welcome Channel Webhook",
+    "avURL": "Image URL for webhook"
+}

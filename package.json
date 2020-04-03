@@ -1,0 +1,28 @@
+{
+  "name": "welcomer-counter",
+  "version": "1.0.0",
+  "description": "welcomer and member count bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xynnix/MemCount.git"
+  },
+  "keywords": [
+    "membercount",
+    "discord.js",
+    "welcomer"
+  ],
+  "author": "Xynnix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xynnix/MemCount/issues"
+  },
+  "homepage": "https://github.com/Xynnix/MemCount#readme",
+  "dependencies": {
+    "discord.js": "^11.0.3",
+    "node-fetch": "^2.6.0"
+  }
+}
