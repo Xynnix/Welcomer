@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Xynnix/MemCount.git"
+    "url": "git+https://github.com/Xynnix/Welcomer.git"
   },
   "keywords": [
     "membercount",
@@ -18,9 +18,9 @@
   "author": "Xynnix",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Xynnix/MemCount/issues"
+    "url": "https://github.com/Xynnix/Welcomer/issues"
   },
-  "homepage": "https://github.com/Xynnix/MemCount#readme",
+  "homepage": "https://github.com/Xynnix/Welcomer#readme",
   "dependencies": {
     "discord.js": "^11.0.3",
     "node-fetch": "^2.6.0"
